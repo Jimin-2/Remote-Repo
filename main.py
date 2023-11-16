@@ -12,5 +12,4 @@ def check_even():
     except ValueError:
         print("유효한 숫자를 입력하세요.")
 
-# 함수 호출
 check_even()
