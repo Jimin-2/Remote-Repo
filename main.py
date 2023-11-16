@@ -13,3 +13,6 @@ def check_even():
         print("유효한 숫자를 입력하세요.")
 
 check_even()
+
+def sum_two_numbers(a, b):
+    return a + b
